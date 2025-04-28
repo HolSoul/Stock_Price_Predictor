@@ -17,5 +17,5 @@ matplotlib
 seaborn
 
 # Utilities
-# jupyterlab # Uncomment if using JupyterLab
+jupyterlab 
 # notebook   # Uncomment if using classic Jupyter Notebook

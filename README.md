@@ -35,7 +35,7 @@ stock-price-prediction/
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/HolSoul/Stock_Price_Predictor
    cd stock-price-prediction
    ```
 2. Создайте виртуальное окружение (рекомендуется):
