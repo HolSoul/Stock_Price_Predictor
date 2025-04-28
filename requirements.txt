@@ -1,0 +1,21 @@
+# Core libraries
+pandas
+numpy
+
+# Data retrieval
+yfinance
+
+# Data processing & modeling
+scikit-learn
+statsmodels
+prophet
+# tensorflow  # Uncomment if using TensorFlow/Keras for LSTM/GRU
+# torch       # Uncomment if using PyTorch for LSTM/GRU
+
+# Visualization
+matplotlib
+seaborn
+
+# Utilities
+# jupyterlab # Uncomment if using JupyterLab
+# notebook   # Uncomment if using classic Jupyter Notebook
